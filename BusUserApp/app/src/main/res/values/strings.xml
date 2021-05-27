@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Bus Transport App</string>
+    <string name="title_activity_geofence">Map</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_address">Address</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+    <string name="hint_enter_name">Enter Full Name</string>
+    <string name="Open">NavBar</string>
+    <string name="Close">NavBar</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="hint_description">Add Description</string>
+    <string name="hint_enter_school">Enter School Name</string>
+    <string name="hint_enter_id">Enter School ID</string>
+    <string name="hint_enter_phone_num">Enter Phone Number</string>
+    <string name="hint_title">Add Title</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_live_maps">Map</string>
+</resources>
