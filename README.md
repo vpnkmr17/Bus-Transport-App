@@ -6,12 +6,17 @@ to not know when the bus will arrive and wait for indefinite time. There are als
 of this change.There are many other problems like these which are overcome by a 
 single app – ‘Bus Transport Application’.
 
-#FEATURES
+## FEATURES
+
 We have developed a complete Bus Transport application which have the following functionality:
 
 Real time bus tracking
+
 Geo fencing
+
 Online ticket booking
+
 Online schedules
+
 Lost and Found Section
 
